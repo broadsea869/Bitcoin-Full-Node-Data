@@ -1,4 +1,4 @@
-# BitcoinData 比特币数据
+# Bitcoin Full Node Data 比特币全节点数据
 帮助你更快地下载比特币全节点数据。
 Help you to download full node bitcoin data quickly.
 
@@ -9,5 +9,5 @@ cloud drive link.
 Because the file is too large, you need to log in and download the client.
 
 更新时间：2025年1月25日
-Update date:January 25, 2025
+Update date: January 25, 2025
 
