@@ -6,7 +6,7 @@
 更新时间：2025年1月25日  
 
 Help you to download full node bitcoin data quickly.  
-Network drive link.
+Network drive link.  
 Because the file is too large, you need to log in and download the client.  
 Update date: January 25, 2025  
 
