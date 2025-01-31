@@ -7,7 +7,7 @@
 
 Help you to download full node bitcoin data quickly.  
 Network drive link.  
-Because the file is too large, you need to log in and download the client.  
+Due to the file is too large, you need to log in and download the client.  
 Update date: January 25, 2025  
 
 ## 使用说明 Instructions
@@ -17,7 +17,7 @@ Update date: January 25, 2025
 数据目录：Z:\BitcoinData  
 快捷方式："C:\Program Files\Bitcoin\bitcoin-qt.exe" -datadir=Z:\BitcoinData  
 
-Download the lastest Bitcoin Core Client and create a link with parameters to load data, for example:  
+Download the newest Bitcoin Core Client and create a link with parameters to load data, for example:  
 Client file: C:\Program Files\Bitcoin\bitcoin-qt.exe  
 Data file: Z:\BitcoinData  
 Shortcuts: "C:\Program Files\Bitcoin\bitcoin-qt.exe" -datadir=Z:\BitcoinData  
@@ -25,3 +25,4 @@ Shortcuts: "C:\Program Files\Bitcoin\bitcoin-qt.exe" -datadir=Z:\BitcoinData
 ### Linux
 等待更新  
 Wait for update...  
+Maybe you can commit a PR,thank you!
